@@ -1,0 +1,35 @@
+.vscode/
+
+# Compiled Java files
+*.class
+
+# Build folders
+/bin/
+/build/
+/out/
+/target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE / editor files
+*.iml
+.idea/
+.settings/
+.project
+.classpath
+
+# Gradle / Maven
+.gradle/
+.mvn/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs, temp, system files
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
