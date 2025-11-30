@@ -70,9 +70,10 @@ Uma classe prática para mostrar Pop-ups simples.
     ```java
     JOptionPane.showMessageDialog(null, "Sua mensagem aqui");
     ```
-* **Para que serve:** Enviar mensagens rápidas ao usuário (ex: avisos de erro ou "Parabéns, você ganhou um iPhone 17" 😉).
+* **Para que serve:** Enviar mensagens rápidas ao usuário (ex: avisos de erro ou "Parabéns, você ganhou um iPhone 17, basta apenas enviar os dados do seu cartao" 😉).
 
 ---
 
 ## Author
-Feito por **João Vitor (Losell)** durante estudos de Java.
+Feito por **João Vitor (Losel)** durante estudos de Java.
+
